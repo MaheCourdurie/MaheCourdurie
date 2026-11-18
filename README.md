@@ -69,7 +69,7 @@ RPG façon Pokémon : 493 créatures, combats, capture, Pokédex. À télécharg
 
 <br/>
 
-## Boîte à outils
+## Compétences
 
 <div align="center">
   <img src="assets/skills.svg" alt="Niveaux d'aisance : Python 90, HTML/CSS 90, TypeScript 80, React 80, SQL 70, Pandas 65, Node.js 60, C 60, Java 55, Swift 45" width="760" />
